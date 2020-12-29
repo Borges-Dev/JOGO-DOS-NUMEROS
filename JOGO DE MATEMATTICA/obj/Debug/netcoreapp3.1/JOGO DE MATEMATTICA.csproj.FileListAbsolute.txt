@@ -1,0 +1,13 @@
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\JOGO DE MATEMATTICA\JOGO DE MATEMATTICA\obj\Debug\netcoreapp3.1\JOGO DE MATEMATTICA.csprojAssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\JOGO DE MATEMATTICA\JOGO DE MATEMATTICA\obj\Debug\netcoreapp3.1\JOGO DE MATEMATTICA.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\JOGO DE MATEMATTICA\JOGO DE MATEMATTICA\obj\Debug\netcoreapp3.1\JOGO DE MATEMATTICA.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\JOGO DE MATEMATTICA\JOGO DE MATEMATTICA\obj\Debug\netcoreapp3.1\JOGO DE MATEMATTICA.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\JOGO DE MATEMATTICA\JOGO DE MATEMATTICA\bin\Debug\netcoreapp3.1\JOGO DE MATEMATTICA.exe
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\JOGO DE MATEMATTICA\JOGO DE MATEMATTICA\bin\Debug\netcoreapp3.1\JOGO DE MATEMATTICA.deps.json
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\JOGO DE MATEMATTICA\JOGO DE MATEMATTICA\bin\Debug\netcoreapp3.1\JOGO DE MATEMATTICA.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\JOGO DE MATEMATTICA\JOGO DE MATEMATTICA\bin\Debug\netcoreapp3.1\JOGO DE MATEMATTICA.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\JOGO DE MATEMATTICA\JOGO DE MATEMATTICA\bin\Debug\netcoreapp3.1\JOGO DE MATEMATTICA.dll
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\JOGO DE MATEMATTICA\JOGO DE MATEMATTICA\bin\Debug\netcoreapp3.1\JOGO DE MATEMATTICA.pdb
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\JOGO DE MATEMATTICA\JOGO DE MATEMATTICA\obj\Debug\netcoreapp3.1\JOGO DE MATEMATTICA.dll
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\JOGO DE MATEMATTICA\JOGO DE MATEMATTICA\obj\Debug\netcoreapp3.1\JOGO DE MATEMATTICA.pdb
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\JOGO DE MATEMATTICA\JOGO DE MATEMATTICA\obj\Debug\netcoreapp3.1\JOGO DE MATEMATTICA.genruntimeconfig.cache
